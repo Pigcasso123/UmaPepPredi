@@ -1,4 +1,4 @@
-# Umami_Peptide_Predictor
+# UmaPepPredi
 An interactive web application for predicting the umami intensity of short peptides using machine learning. This project innovatively integrates global physicochemical descriptors and local sequence features of peptides, and reveals the dominant influence of the local chemical environment on umami intensity.
 # Requirement
 1. pandas
